@@ -1,4 +1,4 @@
-# Hazardous Substances Detector
+# Hazmat Detector
 
 ## 1. 블럭도
 <img src="https://user-images.githubusercontent.com/65072588/172790511-a098f41d-f730-42d3-9f8d-73185d8f1be0.PNG">
