@@ -13,8 +13,10 @@
 ### - 아두이노
 아두이노 메가 보드 구매신청 완료<br/>
 필요 센서 및 위험 수치 파악 완료<br/>
-아두이노 rp2040로 변경 고민중<br/>
- 
+아두이노 rp2040 connect로 변경 고민중<br/> - rp2040 connect 블럭도<br/>
+<img src="https://user-images.githubusercontent.com/65072588/175474412-fe290a25-3259-4702-99c7-3bc951144123.PNG">
+<br/>
+
 ### - 젯슨나노
 MQTT 설치 완료<br/>
 Node-Red 설치 완료<br/>
