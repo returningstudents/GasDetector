@@ -1,7 +1,7 @@
 # Hazmat Detector
 
 ## 1. 블럭도
-<img src="https://user-images.githubusercontent.com/65072588/172790511-a098f41d-f730-42d3-9f8d-73185d8f1be0.PNG">
+<img src="https://user-images.githubusercontent.com/65072588/175460913-06f60b67-47e3-4be5-84d6-f6b2cd46141b.PNG">
 
 ## 2. 작품 설명
 아두이노 메가 보드에서 유해가스 센서 5종을 연결하여 일정한 수치 이상이 될 때 경보가 울리고 젯슨 나노 보드와 ROS Serial을 이용한 통신으로 실시간 수치를 받고 그 수치를 Node-Red를 사용하여 PC에서 실시간 수치와 그래프를 확인할 수 있다. 측정할 유해가스는 황화수소, 암모니아, 일산화탄소, 이산화탄소, 메탄가스이다.
@@ -18,9 +18,8 @@
 MQTT 설치 완료<br/>
 Node-Red 설치 완료
 
-### - PC
-공부중
-
 ***
 ## 피드백
-추가 예정
+# 1. 블럭도 수정
+Node-red는 Jetson Nano안에서 구동됨 - 수정완료
+센서와 Arduino Mega가 어떤 통신 프로토콜을 사용하는지 표현해야됨 - 수정완료
