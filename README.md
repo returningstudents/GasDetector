@@ -21,5 +21,5 @@ Node-Red 설치 완료
 ***
 ## 피드백
 ### 1. 블럭도 수정
-Node-red는 Jetson Nano안에서 구동됨 - 수정완료
+Node-red는 Jetson Nano안에서 구동됨 - 수정완료<br/>
 센서와 Arduino Mega가 어떤 통신 프로토콜을 사용하는지 표현해야됨 - 수정완료
